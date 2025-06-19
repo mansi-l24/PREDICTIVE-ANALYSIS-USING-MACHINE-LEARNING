@@ -26,3 +26,6 @@ Trains Different Predictors: Uses several "guessing methods" (like simple math, 
 Checks How Good the Guesses Are: Measures how accurate each guessing method is at predicting prices.
 Fine-Tunes the Best Predictor: Takes the best guessing method and adjusts its settings to make it even more accurate.
 Shows Results: Displays how well the best method predicted prices, including a graph to compare the actual prices with the predicted ones.
+
+**OUTPUT :**
+![Image](https://github.com/user-attachments/assets/3b17c35f-4959-4be4-bd27-9979977861d2)
